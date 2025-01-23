@@ -63,6 +63,10 @@ public class AutomateBrowserr{
 		 * driver.close(); // Will close only main page --close shall close the current window
 		 */
 
+		System.out.println("JIRA1");
+		System.out.println("JIRA2");
+		System.out.println("JIRA3");
+		System.out.println("TEST WORK");
 	}
 
 
